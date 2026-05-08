@@ -47,3 +47,14 @@ We welcome contributions! Please follow these steps:
 - Add docstrings for all functions
 - Include type hints where appropriate
 - Write clear, descriptive commit messages
+
+### Getting Help
+
+If you encounter issues not covered here:
+1. Check the `--help` output
+2. Verify Python version (3.6+ required)
+3. Open an issue on GitHub with:
+   - Your operating system
+   - Python version
+   - Complete error message
+   - Steps to reproduce
